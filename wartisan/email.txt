@@ -1,0 +1,12 @@
+CLIENT
+email: jinge5858@hot.com
+IP: 116.51.24.4 CountryName: Singapore CityName: Singapore
+CLIENT
+email: bingna@bingna.com
+IP: 116.51.24.4 CountryName: Singapore CityName: Singapore
+CLIENT
+email: aa@aa.com
+IP: 116.51.24.4 CountryName: Singapore CityName: Singapore
+CLIENT
+email: lulugao@adobe.com
+IP: 116.51.24.4 CountryName: Singapore CityName: Singapore

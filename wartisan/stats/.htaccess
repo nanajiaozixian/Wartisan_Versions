@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "wartisan.com Statistics"
+AuthUserFile /var/chroot/home/content/85/11092185/html/stats/.statspwd
+Require valid-user
+DirectoryIndex index.html
